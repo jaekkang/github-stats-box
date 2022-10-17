@@ -20,7 +20,6 @@
 
     - **GH_TOKEN:** The GitHub token generated above.
 
-
 4. Go to the **Actions** tab of your fork and click the "enable" button
 5. Edit the environment variables at the end of the file `.github/workflows/run.yml`
 
