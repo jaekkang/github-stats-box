@@ -15,6 +15,7 @@
 
 ## Project setup
 
+
 1. Fork this repository
 2. From your new fork, go to **Settings > Secrets**
 3. Add the following secret using the **New secret** button:
